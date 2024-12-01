@@ -44,3 +44,9 @@ I’m always open to discussing:
 - Collaborative tech projects
 
 Feel free to connect with me. Let’s innovate together!
+
+![Java](https://img.shields.io/badge/Java-Expert-orange)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-Intermediate-brightgreen)
+![Cloud Computing](https://img.shields.io/badge/Cloud-AWS-blue)
+![DSA](https://img.shields.io/badge/DSA-Learning-yellow)
+
