@@ -18,8 +18,8 @@ My goal is to contribute to impactful projects and build robust, scalable applic
 ## 🔗 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/anshulsharma2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshulsharma2001" height="30" width="40"/></a> <p> </p>
-<a href="https://leetcode.com/u/me-anshulsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="me-anshulsharma" height="30" width="40" /></a> <p> </p>
+<a href="https://www.linkedin.com/in/anshulsharma2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshulsharma2001" height="30" width="40"/></a>
+<a href="https://leetcode.com/u/me-anshulsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="me-anshulsharma" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/me_anshulsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="me_anshulsharma" height="30" width="40" /></a>    
 </p>  
 
@@ -34,4 +34,4 @@ I am currently:
 - Learning more about **Cloud Platforms**, **Spring Boot** and **React**
 
 
-Feel free to connect with me. Let’s innovate together!
+<i>Feel free to connect with me. Let’s innovate together!</i>
