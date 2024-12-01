@@ -12,7 +12,8 @@ My goal is to contribute to impactful projects and build robust, scalable applic
 ---
 
 ## 🔗 Connect with Me
-- 💼![image](https://github.com/user-attachments/assets/6a5b1838-843b-47d9-a57a-e7e27fb2c3f5)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/your-link)
+
  **LinkedIn:** [Anshul Sharma](https://www.linkedin.com/in/anshulsharma2001)  
 - 🖥️ **LeetCode Profile:** [Your LeetCode](https://leetcode.com/u/me-anshulsharma/)  
 - 📘 **GeeksforGeeks Profile:** [Your GFG](https://www.geeksforgeeks.org/user/me_anshulsharma/)  
