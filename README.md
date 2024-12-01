@@ -12,6 +12,8 @@ My goal is to contribute to impactful projects and build robust, scalable applic
 👨‍💻 All of my projects are available at [https://github.com/me-anshulsharma](https://github.com/me-anshulsharma)
 
 
+--- 
+
 ## 🔗 Connect with Me
 
 <p align="left">
@@ -20,6 +22,7 @@ My goal is to contribute to impactful projects and build robust, scalable applic
 <a href="https://leetcode.com/u/me-anshulsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="me-anshulsharma" height="30" width="40" /></a>
 </p>  
 
+---
 
 ## 🌱 Current Focus
 I am currently:
