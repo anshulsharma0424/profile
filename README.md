@@ -11,22 +11,15 @@ My goal is to contribute to impactful projects and build robust, scalable applic
 
 👨‍💻 All of my projects are available at [https://github.com/me-anshulsharma](https://github.com/me-anshulsharma)
 
----
 
 ## 🔗 Connect with Me
 
-- **LinkedIn:** [Click Here]()  
-- **LeetCode Profile:** [Click Here](https://leetcode.com/u/me-anshulsharma/)  
-- **GeeksforGeeks Profile:** [Click Here](https://www.geeksforgeeks.org/user/me_anshulsharma/)
-
 <p align="left">
-  
 <a href="https://www.linkedin.com/in/anshulsharma2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshulsharma2001" height="30" width="40"/></a>
 <a href="https://www.geeksforgeeks.org/user/me_anshulsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gfg.svg" alt="me_anshulsharma" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/me-anshulsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="me-anshulsharma" height="30" width="40" /></a>
 </p>  
 
----
 
 ## 🌱 Current Focus
 I am currently:
