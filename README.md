@@ -13,14 +13,14 @@ I specialize in:
 --- 
 
 ## 👨‍💻 My Projects
-# Project Management System (https://github.com/me-anshulsharma/ProjectManagementSystem)
+# Project Management System [Link](https://github.com/me-anshulsharma/ProjectManagementSystem)
 - Developed 20+ REST API endpoints for project creation, user management, and issue tracking.
 - Secured the application with JWT authentication and Spring Security.
 - Integrated Razorpay payment gateway, leading to a 15% increase in paid subscriptions.
 - Features: Comment system, user invitations, and collaborative tools.
 - Technologies Used: Spring Boot, MySQL, JWT Authentication, Razorpay Integration, REST APIs, Maven.
 
-# E-mail Client Application Service (https://github.com/me-anshulsharma/EmailApplicationProject)
+# E-mail Client Application Service [Link](https://github.com/me-anshulsharma/EmailApplicationProject)
 - Built REST APIs for secure email communication with features like file attachments (up to 100 MB) and HTML content delivery.
 - Developed a React.js frontend for seamless email management.
 - Implemented robust CORS configurations for cross-origin compatibility.
