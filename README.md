@@ -3,15 +3,12 @@
 ---
 
 ## 🚀 About Me
-I am an MCA student at **VIT Chennai** with a strong passion for software development and problem-solving. I am proficient in:
-- **Core Technologies:** Java, Object-Oriented Programming (OOPs), Spring Boot, Database Management (DBMS)
-- **Emerging Areas:** Artificial Intelligence (AI), Machine Learning (ML), Cloud Computing, Data Structures and Algorithms (DSA)
   
 Aspiring software developer with expertise in building secure and scalable backend systems. I am passionate about solving real-world challenges and creating efficient software solutions. 
 I specialize in:
-**Core Technologies:** Java, Spring Boot, REST APIs, JDBC, Hibernate
-**Database Management:** MySQL, MongoDB
-**Additional Skills:** JavaScript, Problem-Solving, Data Structures & Algorithms (DSA)
+- **Core Technologies:** Java, Spring Boot, REST APIs, JDBC, Hibernate
+- **Database Management:** MySQL, MongoDB
+- **Additional Skills:** JavaScript, Problem-Solving, Data Structures & Algorithms (DSA)
 
 👨‍💻 All of my projects are available at [https://github.com/me-anshulsharma](https://github.com/me-anshulsharma)
 
