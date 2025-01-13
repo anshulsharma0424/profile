@@ -10,11 +10,25 @@ I specialize in:
 - **Database Management:** MySQL, MongoDB
 - **Additional Skills:** JavaScript, Problem-Solving, Data Structures & Algorithms (DSA)
 
-👨‍💻 All of my projects are available at [https://github.com/me-anshulsharma](https://github.com/me-anshulsharma)
-
-
 --- 
 
+## 👨‍💻 My Projects
+# Project Management System (https://github.com/me-anshulsharma/ProjectManagementSystem)
+- Developed 20+ REST API endpoints for project creation, user management, and issue tracking.
+- Secured the application with JWT authentication and Spring Security.
+- Integrated Razorpay payment gateway, leading to a 15% increase in paid subscriptions.
+- Features: Comment system, user invitations, and collaborative tools.
+- Technologies Used: Spring Boot, MySQL, JWT Authentication, Razorpay Integration, REST APIs, Maven.
+
+# E-mail Client Application Service (https://github.com/me-anshulsharma/EmailApplicationProject)
+- Built REST APIs for secure email communication with features like file attachments (up to 100 MB) and HTML content delivery.
+- Developed a React.js frontend for seamless email management.
+- Implemented robust CORS configurations for cross-origin compatibility.
+- Technologies Used: Java, Spring Boot, React.js, JavaMail API, MySQL, Spring Security, REST APIs, Maven.
+
+👨‍💻 Check out all my projects here: [All Projects](https://github.com/me-anshulsharma)
+
+---
 
 ## 🔗 Connect with Me
 
@@ -29,9 +43,7 @@ I specialize in:
 
 
 ## 🌱 Current Focus
-I am currently:
 - Mastering **Data Structures and Algorithms (DSA)** and **Problem Solving**
-- Exploring **AI/ML** concepts and applications
 - Learning more about **Cloud Platforms**, **Spring Boot** and **React**
 
 
