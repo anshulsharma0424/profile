@@ -15,7 +15,7 @@ I'm a passionate Full-Stack Developer with a knack for building secure and scala
 
 - 🔭 Currently enhancing my skills in **Spring Boot**, **React**, and **Microservices**
 - 💡 Strong foundation in **Data Structures & Algorithms** and system design
-- 🧰 Core Technologies: `Java`, `Spring Boot`, `Node.js`, `React.js`, `REST APIs`
+- 🧰 Core Technologies: `Java`, `Spring Boot`, `Javascript`, `React.js`, `REST APIs`
 - 🗄️ Databases: `MySQL`, `MongoDB`
 - ⚙️ Tools & Skills: `Docker`, `Git`, `Postman`, `DSA`, `Agile`
 
@@ -24,7 +24,6 @@ I'm a passionate Full-Stack Developer with a knack for building secure and scala
 📊 **GitHub Stats**
 
 <p align="center">
-  ![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshulsharma0424&show_icons=true&theme=transparent)
   <img src="https://github-readme-stats.vercel.app/api?username=anshulsharma0424&show_icons=true&theme=radical" alt="Anshul's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshulsharma0424&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulsharma0424&layout=compact&theme=radical" alt="Top Languages" />
@@ -46,7 +45,7 @@ I'm a passionate Full-Stack Developer with a knack for building secure and scala
 - Implemented **CORS** for cross-origin compatibility and deployed with **Docker**  
 - 🛠️ *Tech Stack:* Java, Spring Boot, React.js, JavaMail API, MySQL, Docker
 
-👉 Explore all my work: [GitHub Repositories](https://github.com/vloggernaut?tab=repositories)
+👉 Explore all my work: [GitHub Repositories](https://github.com/anshulsharma0424?tab=repositories)
 
 ---
 
@@ -70,9 +69,12 @@ I'm a passionate Full-Stack Developer with a knack for building secure and scala
 🔗 **Connect with Me**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/vloggernaut" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github" /></a>
-  <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/anshulsharma0424" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/anshulsharma0424" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github" /></a>
+  <a href="mailto:anshulsharma0424@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-white?style=flat&logo=gmail" /></a>
+  <a href="https://leetcode.com/u/anshulsharma24/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
+  <a href="https://www.geeksforgeeks.org/user/anshul0424/" target="_blank"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/anshul0424" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white"/></a>
 </p>
 
 ---
