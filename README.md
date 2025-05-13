@@ -1,50 +1,69 @@
-<h1 align="center">👋 Hi, I'm Anshul Sharma!</h1>
+👋 Hi, I'm Anshul Sharma!
 
----
+  Full-Stack Developer | Problem Solver | Tech Enthusiast
 
-## 🚀 About Me
+🚀 About Me
+I'm a passionate Full-Stack Developer specializing in building secure, scalable web applications. I love tackling real-world challenges with clean code and innovative solutions. My expertise includes:
+
+Core Technologies: Java, Spring Boot, Node.js, React.js, REST APIs
+Databases: MySQL, MongoDB
+Tools & Skills: Docker, Git, Postman, Data Structures & Algorithms, Problem Solving
+
   
-Aspiring software developer with expertise in building secure and scalable backend systems. I am passionate about solving real-world challenges and creating efficient software solutions. 
-I specialize in:
-- **Core Technologies:** Java, Spring Boot, REST APIs, JDBC, Hibernate
-- **Database Management:** MySQL, MongoDB
-- **Additional Skills:** JavaScript, Problem-Solving, Data Structures & Algorithms (DSA)
+📊 My GitHub Stats
 
---- 
-
-## 👨‍💻 My Projects
-### Project Management System [Link](https://github.com/me-anshulsharma/ProjectManagementSystem)
-- Developed 20+ REST API endpoints for project creation, user management, and issue tracking.
-- Secured the application with JWT authentication and Spring Security.
-- Integrated Razorpay payment gateway, leading to a 15% increase in paid subscriptions.
-- Features: Comment system, user invitations, and collaborative tools.
-- Technologies Used: Spring Boot, MySQL, JWT Authentication, Razorpay Integration, REST APIs, Maven.
-
-### E-mail Client Application Service [Link](https://github.com/me-anshulsharma/EmailApplicationProject)
-- Built REST APIs for secure email communication with features like file attachments (up to 100 MB) and HTML content delivery.
-- Developed a React.js frontend for seamless email management.
-- Implemented robust CORS configurations for cross-origin compatibility.
-- Technologies Used: Java, Spring Boot, React.js, JavaMail API, MySQL, Spring Security, REST APIs, Maven.
-
-👨‍💻 Check out all my projects here: [All Projects](https://github.com/me-anshulsharma)
-
----
-
-## 🔗 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/anshulsharma2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshulsharma2001" height="30" width="40"/></a>
-<a href="https://leetcode.com/u/me-anshulsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="me-anshulsharma" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/me_anshulsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="me_anshulsharma" height="30" width="40" /></a>    
-</p>  
+  
+  
 
 
----
+  
 
+👨‍💻 Featured Projects
+Project Management System
+Built 20+ REST API endpoints for project creation, user management, and issue tracking.
+Secured with JWT authentication and Spring Security for robust access control.
+Integrated Razorpay, boosting paid subscriptions by 15%.
+Tech Stack: Spring Boot, MySQL, JWT, Razorpay, REST APIs, Maven
 
-## 🌱 Current Focus
-- Mastering **Data Structures and Algorithms (DSA)** and **Problem Solving**
-- Learning more about **Cloud Platforms**, **Spring Boot** and **React**
+  
 
+EmaiZY: AI-Powered Email Assistant
+Developed REST APIs for secure email communication with file attachments (up to 100 MB).
+Created a responsive React.js frontend for seamless user experience.
+Implemented CORS for cross-origin compatibility and deployed with Docker.
+Tech Stack: Java, Spring Boot, React.js, JavaMail API, MySQL, Docker
 
-<i>Feel free to connect with me. Let’s innovate together!</i>
+  
+
+👨‍💻 Explore all my projects: GitHub Repositories
+
+🏆 Achievements & Certifications
+🥇 Postman API Fundamentals Student Expert - Postman
+🥇 Microservices Foundations Professional Certificate - Kong, LinkedIn Learning
+🥇 Docker Foundations Professional Certificate - Docker, LinkedIn Learning
+🥇 The Complete Java Course: From Basics to Advanced - Udemy
+
+  
+  
+
+🔗 Connect with Me
+
+  
+    
+  
+  
+    
+  
+  
+    
+  
+
+🌱 What I'm Working On
+🧠 Deepening expertise in Data Structures & Algorithms
+☁️ Exploring Cloud Platforms (AWS, Azure)
+🚀 Advancing skills in Spring Boot, React, and Microservices
+
+  
+  
+
+  Let's connect and build something amazing together!
