@@ -24,9 +24,10 @@ I'm a passionate Full-Stack Developer with a knack for building secure and scala
 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vloggernaut&show_icons=true&theme=radical" alt="Anshul's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vloggernaut&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vloggernaut&layout=compact&theme=radical" alt="Top Languages" />
+  ![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshulsharma0424&show_icons=true&theme=transparent)
+  <img src="https://github-readme-stats.vercel.app/api?username=anshulsharma0424&show_icons=true&theme=radical" alt="Anshul's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshulsharma0424&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulsharma0424&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
